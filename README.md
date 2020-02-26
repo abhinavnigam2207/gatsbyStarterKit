@@ -48,7 +48,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
     ├── node_modules
     ├── src
     ├── .gitignore
-    ├── .prettierrc
+    ├── .eslintrc
     ├── gatsby-browser.js
     ├── gatsby-config.js
     ├── gatsby-node.js
@@ -64,7 +64,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
 
-4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
+4.  **`.eslintrc`**: This is a configuration file for ESLint. ESLint is a tool to help keep the formatting of your code consistent.
 
 5.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
 
